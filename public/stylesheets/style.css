@@ -1,0 +1,27 @@
+
+.card.card-title{
+text-align: center;
+font-size: 20px;
+}
+.card.card-text{
+  font-size: 15px;
+
+
+}
+.card img{
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+
+.price{
+  font-weight: bold;
+  font-size: 20px;
+  padding-left: 200px;
+ 
+  
+}
+.row{
+  padding-top: 20px;
+}
